@@ -13,13 +13,13 @@ Breaking it down into simpler terms:
 1. **Three Groups**:
    - The computer grouped the flowers into three clusters (groups).
 
-2. **Group 1**:
+2. **Group 2**:
    - This group is made up entirely of one type of flower called **Iris setosa**. This group stands out because these flowers have a wider sepal and shorter sepal length compared to the others. So, they form their own group easily.
 
-3. **Group 2 and Group 3**:
+3. **Group 0 and Group 1**:
    - These groups contain the other two types of flowers: **Iris versicolor** and **Iris virginica**.
-   - **Group 2** mostly has **Iris versicolor** but a few **Iris virginica**.
-   - **Group 3** mostly has **Iris virginica** but a few **Iris versicolor**.
+   - **Group 0** mostly has **Iris versicolor** but a few **Iris virginica**.
+   - **Group 1** mostly has **Iris virginica** but a few **Iris versicolor**.
    - These two groups are mixed a bit because the flowers have more similar measurements.
 
 ### What It Means
